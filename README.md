@@ -112,7 +112,7 @@ This will be your shared class repo! Guides, in-class labs and code samples, and
 ### Link to Recorded Lessons
 
 For your convenience, recordings of the lessons will be available to review at 
- [YouTube](https://www.youtube.com/playlist?list=PL51l5r1uFLPOUcDN0stVot_eHdy0fXZIw).
+ [YouTube]().
  
 ### Link to Deliverable Schedule
 
