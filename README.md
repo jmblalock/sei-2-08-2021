@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/XseXU8J.png" width="900">
 
-# Welcome to General Assembly SEI-R-10/19 - You Amazing Folks!
+# Welcome to General Assembly SEI-R-2/08 - You Amazing Folks!
 
 This will be your shared class repo! Guides, in-class labs and code samples, and other resources will live here.
 
@@ -21,18 +21,15 @@ This will be your shared class repo! Guides, in-class labs and code samples, and
 
 ### Course Dates and Holidays
 
-- Course duration: Monday, October 19th, 2020 - Monday, January 27th, 20201 (60 days - not including holidays)
+- Course duration: Monday, February 8th, 2021 - Monday, May 3th, 20201 (60 days - not including holidays)
 - Holidays:
-	- November 3rd, Election day
-	- November 11th, Veterans day
-	- November 25th - 27th Thanksgiving 
-	- December 24th - 1/1 Holiday Break
-	- January 18th - MLK Day
+	- February 15th, Presidents Day
+
 
 
 ### Link to Global Zoom Room
 
-[Link to join the Global Zoom Room](https://generalassembly.zoom.us/j/93043989014?pwd=Y2tmbzFKSTJwbFZMVjZPekdLZ0U2QT09)
+[Link to join the Global Zoom Room](https://generalassembly.zoom.us/j/6289148993?pwd=dWRkL2s5ZDErbHVRdnVnRG42OEpCZz09)
 
 ### Course Curriculum
 
@@ -109,25 +106,13 @@ This will be your shared class repo! Guides, in-class labs and code samples, and
 |Global Instructor  | Jim Haff       | @Jim Haff | james.haff@generalassemb.ly |
 |Co-Lead | Alex Rowland|  @Alex Rowland  | alex.rowland@generalassemb.ly |
 |Co-Lead| Michael Siller |  @Michael Siller  | michael.siller@generalassemb.ly |
-|IA| Jason Serafica |  @Jason Serafica  | jason.serafica@generalassemb.ly |
 
 
-### Links to Sign Up for Global Instructor's Office Hours
-
-Both global instructors will have a limited number of 15 minute one-on-one office hour visits each week.
-
-Click on the links provided below to schedule a 15 minute session for the week:
-
-|Instructor| Sign Up Link| Zoom Link |
-|:--|:-:|:-:|
-|Jim Haff| [link (CT)](https://calendly.com/james-haff) |[link]( https://generalassembly.zoom.us/j/6289148993?pwd=dWRkL2s5ZDErbHVRdnVnRG42OEpCZz09)
-
-Note that the instructors will slack you a Zoom link prior to the session.
 
 ### Link to Recorded Lessons
 
 For your convenience, recordings of the lessons will be available to review at 
- [YouTube](https://www.youtube.com/playlist?list=PL51l5r1uFLPOUcDN0stVot_eHdy0fXZIw).
+ [YouTube]().
  
 ### Link to Deliverable Schedule
 
@@ -139,7 +124,7 @@ Graduation requires that 80% of deliverables be completed (working) and delivere
 
 [Link to the Deliverable Schedule in the `/resources` directory](./resources/deliverable-schedule.md)
 
-[Link to submit Deliverables](https://docs.google.com/forms/d/e/1FAIpQLSe-h4UjdHB419210jhGXZGXAU9T7CqTGd1evNaqGfiDp08J5g/viewform)
+[Link to submit Deliverables](https://docs.google.com/forms/d/e/1FAIpQLSf1-sHWrYia-0WUn3VJDmy40yFRLhhbYDzQgNMbFW449nhtRw/viewform)
 
 ### Class Repo Structure
 
@@ -165,7 +150,7 @@ Graduation requires that 80% of deliverables be completed (working) and delivere
 You will have read-only access to the GA class repo.  However, you most certainly will want to be able to make changes (e.g., add notes, save code exercises, etc).  These changes will be saved to your own personal copy of GA's Student repo - known as a **fork**. To get this fork do the following:
 
 1. Make sure that you're logged in to your GA **Enterprise** GitHub account. If you have not signed up yet, here's the link to do so: [https://git.generalassemb.ly/join?source=header](https://git.generalassemb.ly/join?source=header)
-2. In another tab, browse to the GA class repo:  [https://git.generalassemb.ly/SEI-CC/SEI-R-10-19](https://git.generalassemb.ly/SEI-CC/SEI-R-10-19)
+2. In another tab, browse to the GA class repo:  [https://git.generalassemb.ly/SEI-CC/sei-2-08-2021](https://git.generalassemb.ly/SEI-CC/sei-2-08-2021)
 3. In the top-right corner of the page, click the `Fork` button.
 SEI-CC
 Now you will have a copy of the repo in **your** Enterprise GitHub account!
@@ -180,10 +165,10 @@ Now that you have a copy of the class repo in your GitHub account, it's time to 
 4. In Terminal, type `git clone ` and follow it by pasting in the copied URL from the clipboard. The command should now look something like this:
 
 ```
-$ git clone https://git.generalassemb.ly/YOUR-ENTERPRISE-GITHUB-USERNAME/SEI-CC/SEI-R-10-19
+$ git clone https://git.generalassemb.ly/YOUR-ENTERPRISE-GITHUB-USERNAME/SEI-CC/SEI-2-08-2021
 ```
 
-You can now `$ cd SEI-R-10-19` and check out your local copy of of the GA class repo!
+You can now `$ cd SEI-2-08-2021` and check out your local copy of of the GA class repo!
 
 #### Adding a git _remote_ for the original GA class repo
 
@@ -202,7 +187,7 @@ Note that by convention, the remote that points to the GitHub repo it was cloned
 However, in order to get the updates that the instructors push to the GA class repo, you will need to create another **remote** that points to GA's class repo that you forked:
 
 ```
-$ git remote add upstream https://git.generalassemb.ly/SEI-CC/SEI-R-10-19.git
+$ git remote add upstream https://git.generalassemb.ly/SEI-CC/SEI-2-08-2021.git
 ```
 
 Note that by convention, the remote that points to the *original* GitHub repo that was forked is named **upstream**.
